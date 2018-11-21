@@ -1,0 +1,2 @@
+# komponenty
+Created with CodeSandbox
